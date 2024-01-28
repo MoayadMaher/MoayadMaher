@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoayadMaher
-- 👀 I’m interested in AI / Software Engineering 
+- 👀 I’m Software Engineer developer
 - 🌱 I’m currently learning WEB DEV
 - 📫 How to reach me its.moayadj@gmail.com
 
