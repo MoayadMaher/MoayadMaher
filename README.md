@@ -31,14 +31,3 @@ I'm a computer engineering graduate from Al Balqa Applied University with a deep
 <br/>
 <br/>
 
-## Projects
-
-### [Shield Stack](https://github.com/MoayadMaher/shield_stack)
-A cybersecurity platform providing pen testing and steganography services to simplify tasks and reduce the need for individual devices. Built with Next.js, FastAPI, and Node.js.
-
-### [Academic Portal](https://github.com/MoayadMaher/academic-portal)
-A user authentication and course management portal using React.js, Node.js with Express, and MySQL.
-
-### [Yelp Camp](https://github.com/MoayadMaher/yelp-camp)
-A full-stack web application that allows users to create and review campgrounds.
-
