@@ -6,10 +6,11 @@
 
 ##  About Me
 
-I'm a computer engineering graduate from Al Balqa Applied University with a deep passion for web development, cybersecurity, and robotics. I believe that coding is more than just a career—it's a lifestyle. Here's a bit more about me:
- - I enjoy transforming ideas into products that can bring joy and utility to people.
- - I love learning new technologies and am always on the lookout for exciting challenges.
- - I frequently build projects for fun and to sharpen my skills.
+Hello! I'm Moayad Jaber, a passionate computer engineering graduate who loves innovation and technology. From crafting sleek web applications to diving deep into cybersecurity and robotics, I thrive on transforming creative ideas into tangible, impactful projects. Here’s a snapshot of who I am:
+- 🚀 **Innovator at Heart**: I believe in the power of technology to bring joy and utility, turning concepts into reality.
+- 🌱 **Lifelong Learner**: I'm always eager to explore new technologies and embrace fresh challenges to grow my skill set.
+- 🎨 **Creative Coder**: Coding isn't just my profession—it's my lifestyle. I build projects for fun and continuously push the boundaries of what's possible.
+
 
 <br />
 
